@@ -12,7 +12,7 @@
         <div class="container">
             <div class ="row">
                 <div class="col-xs-5">
-                    <img id="portrait" class="img-responsive" src="img/Calmer Terrible Face.png">
+                    <img id="portrait" class="img-responsive" src="img/calmerterribleface.png" alt="A poorly drawn representation of me">
                 </div>
                 <div class="col-xs-7 text-right">
                     <h1 id="name">ROBERT ROY</h1>
